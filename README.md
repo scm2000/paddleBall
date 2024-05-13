@@ -15,10 +15,10 @@ You move the mouse up and down to move the paddle up and down.
 The object is to score points by bouncing the tennis ball against the left side of the screen.
 Two twists:   The paddle has 2 sides, and you can flip the paddle by clicking the main mouse button. 
 One side of the paddle speeds the ball up on each hit. The other side slows it down.
-Your bounce score is greater the fast the ball is going.
+Your bounce score is greater the faster the ball is going.
 
 The other twist is that as the game progresses, your paddle will move closer and closer to the left side, making it harder to play.
-However, there is a flying football.  If the football hits your paddle while going to the right it moves your paddle to the right.
+However, there is a flying football!  If the football hits your paddle while going to the right it moves your paddle to the right.
 If it hits it while going left it moves your paddle further left.
 
 The game keeps track of the top five high scores.
