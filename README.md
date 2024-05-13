@@ -22,3 +22,14 @@ However, there is a flying football.  If the football hits your paddle while goi
 If it hits it while going left it moves your paddle further left.
 
 The game keeps track of the top five high scores.
+
+INSTALLATION:
+Just copy all the files in this repository to a floppy
+and run with the floppy in DF0:  
+If you want to run it from a hard drive you can copy all the
+files to a directory there, but then youll have to adjust
+the paths in the several OPEN statements. 
+
+RUNNING:
+Start AmigaBASIC, then type:
+   run "df0:paddleBall"
